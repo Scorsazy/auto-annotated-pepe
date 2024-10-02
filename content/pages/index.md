@@ -17,7 +17,7 @@ sections:
       any layout and any screen.
     actions:
       - type: Button
-        label: Try it now
+        label: BUY NOW ON CHEF.FUN
         altText: ''
         url: /
         showIcon: true
