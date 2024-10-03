@@ -4,7 +4,7 @@ title: ''
 colors: colors-d
 backgroundImage:
   type: BackgroundImage
-  url: /images/designer 10.jpeg
+  url: /images/Designer (6).png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
