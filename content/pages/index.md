@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: 2% Buy 2% Sell 100% Burn
+title: ''
 colors: colors-d
 backgroundImage:
   type: BackgroundImage
