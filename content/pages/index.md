@@ -47,7 +47,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: THE TALE OF PYRO PEPE
+    title: 'THE TALE OF PYRO PEPE: The Frog Who Loved Fire...'
     subtitle: >-
       Once upon a time, deep within the marshes of Pepeville, lived a small
       green frog named Pyro Pepe. Unlike other young frogs who spent their days
