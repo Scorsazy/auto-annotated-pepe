@@ -13,16 +13,7 @@ sections:
   - type: CtaSection
     title: ''
     text: ''
-    actions:
-      - type: Button
-        label: BUY NOW ON CHEF.FUN
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     colors: colors-f
     backgroundSize: full
     elementId: ''
