@@ -12,8 +12,8 @@ backgroundImage:
 sections:
   - type: CtaSection
     title: ''
-    text: |
-      2% Buy 2% Sell 100% Burn
+    text: |2
+                                                                                                                                                   **2% Buy 2% Sell 100% Burn**
     actions:
       - type: Button
         label: BUY NOW ON CHEF.FUN
