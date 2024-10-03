@@ -102,7 +102,7 @@ sections:
       title:
         textAlign: left
       subtitle:
-        textAlign: left
+        textAlign: center
         fontWeight: 500
       text:
         textAlign: left
