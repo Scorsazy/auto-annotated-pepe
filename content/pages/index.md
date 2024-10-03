@@ -14,7 +14,7 @@ sections:
     title: ''
     text: |+
       ```
-                                                                                                                                    2% Buy 2% Sell 100% Burn
+                                                                         2% Buy 2% Sell 100% Burn
       ```
 
     actions:
