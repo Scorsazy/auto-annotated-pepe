@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - type: CtaSection
-    title: 2% Buy 2% Sell 100% Burn
+    title: ''
     text: |
       2% Buy 2% Sell 100% Burn
     actions:
