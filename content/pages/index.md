@@ -81,7 +81,9 @@ sections:
       understood the genius behind the madness. The frog who loved fire had
       burned everything he cherished, but in doing so, he had made everything
       that remained precious beyond measure. And to this day, his name is spoken
-      in hushed tones, a rich pyromaniac who turned destruction into gold.
+      in hushed tones, a rich pyromaniac who turned destruction into
+      gold.                                                 2% Buy 2% Sell 100%
+      Burn
     styles:
       self:
         height: auto
