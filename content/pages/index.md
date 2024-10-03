@@ -4,7 +4,7 @@ title: ''
 colors: colors-d
 backgroundImage:
   type: BackgroundImage
-  url: /images/Designer (9).png
+  url: /images/Designer (6).png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
@@ -13,16 +13,7 @@ sections:
   - type: CtaSection
     title: ''
     text: ''
-    actions:
-      - type: Button
-        label: BUY NOW ON CHEF.FUN
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     colors: colors-f
     backgroundSize: full
     elementId: ''
@@ -45,7 +36,7 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    colors: colors-a
+    colors: colors-f
     backgroundSize: full
     title: 'THE TALE OF PYRO PEPE: The Frog Who Loved Fire...'
     subtitle: >-
@@ -111,7 +102,8 @@ sections:
       title:
         textAlign: left
       subtitle:
-        textAlign: left
+        textAlign: center
+        fontWeight: 500
       text:
         textAlign: left
       actions:
