@@ -36,7 +36,7 @@ sections:
       actions:
         justifyContent: flex-start
   - elementId: ''
-    colors: colors-e
+    colors: colors-f
     backgroundSize: full
     title: 'THE TALE OF PYRO PEPE: The Frog Who Loved Fire...'
     subtitle: >-
