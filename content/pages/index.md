@@ -37,7 +37,7 @@ sections:
         justifyContent: flex-start
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: 'THE TALE OF PYRO PEPE: The Frog Who Loved Fire...'
     subtitle: >-
       Once upon a time, deep within the marshes of Pepeville, lived a small
