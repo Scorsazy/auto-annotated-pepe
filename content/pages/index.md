@@ -103,6 +103,7 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
+        fontWeight: 400
       text:
         textAlign: left
       actions:
