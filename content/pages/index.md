@@ -80,18 +80,18 @@ sections:
       assets—untouched by his flames—skyrocketed in value. The treasures he
       didn’t burn became legendary, their worth multiplied by the stories of the
       ones he set ablaze. People from far and wide came to see the remnants of
-      what he had destroyed, and they paid handsomely for what little was
-      left.Pyro Pepe had become a legend in his own right—an eccentric, wealthy
-      frog who turned his love for fire into a pathway to riches. His actions
-      had made his remaining assets scarce, and therefore, immensely valuable.
-      In his old age, Pyro Pepe would sit by the fire—still entranced by its
-      glow—but now with a fortune greater than he ever dreamed.And so, Pyro
+      what he had destroyed, and they paid handsomely for what little was left.
+      Pyro Pepe had become a legend in his own right—an eccentric, wealthy frog
+      who turned his love for fire into a pathway to riches. His actions had
+      made his remaining assets scarce, and therefore, immensely valuable. In
+      his old age, Pyro Pepe would sit by the fire—still entranced by its
+      glow—but now with a fortune greater than he ever dreamed. And so, Pyro
       Pepe's tale became a lesson for all of Pepeville. While many feared his
       flames, others understood the genius behind the madness. The frog who
       loved fire had burned everything he cherished, but in doing so, he had
-      made everything that remained precious beyond measure.And to this day, his
-      name is spoken in hushed tones—a rich pyromaniac who turned destruction
-      into gold.
+      made everything that remained precious beyond measure. And to this day,
+      his name is spoken in hushed tones—a rich pyromaniac who turned
+      destruction into gold.
     styles:
       self:
         height: auto
