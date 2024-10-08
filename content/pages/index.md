@@ -125,14 +125,7 @@ sections:
 
           *   **COMPLETE MULTIPLE MEME COMPETITIONS**
 
-          *   ***ESTABLISH CONNECTIONS IN THE SPACE******PHASE 2***      *  
-          **COMPLETE BONDING CURVE (PUMP OR CHEF OR BOTH!)**
-
-          *   **LIST ON UNISWAP OR RAYDIUM (OR BOTH!)**
-
-          *   **HUGE BURNING EVENT - BURN 10% OF SUPPLY**
-
-          *   **ESTABLISH MAJOR PARTNERSHIPS**</div>
+          *   ***ESTABLISH CONNECTIONS IN THE SPACE***</div>
 
         name: ''
         title: ''
