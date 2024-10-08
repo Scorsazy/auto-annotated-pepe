@@ -110,4 +110,80 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+  - type: TestimonialsSection
+    testimonials:
+      - type: Testimonial
+        quote: >+
+          **PHASE 1**
+
+
+          <div style="text-align: left">*   **LAUNCH $PYRO ON**
+          [**CHEF.FUN**](https://chef.fun/tokens/0x0ace1f062e51283fa213c7c9724b47ffdb62635d)
+
+          *   **LAUNCH $PYRO ON**
+          [**PUMP.FUN**](https://pump.fun/E2B5LbLS1UrnUh2MiUCvB9er5zWvYzfT7o7XqD7dpump)
+
+          *   **COMPLETE MULTIPLE MEME COMPETITIONS**
+
+          *   ***ESTABLISH CONNECTIONS IN THE SPACE***</div>
+
+        name: ''
+        title: ''
+        image:
+          type: ImageBlock
+          url: /images/designer 10.jpeg
+          altText: John Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+      - type: Testimonial
+        quote: |+
+          **PHASE 2** 
+
+          *   **COMPLETE BONDING CURVE (PUMP OR CHEF OR BOTH!)**
+
+          *   **LIST ON UNISWAP OR RAYDIUM (OR BOTH!)**
+
+          *   **HUGE BURNING EVENT - BURN 10% OF SUPPLY**
+
+          *   **ESTABLISH MAJOR PARTNERSHIPS**
+
+
+
+        name: ''
+        title: ''
+        image:
+          type: ImageBlock
+          url: /images/Designer 12.jpeg
+          altText: Johnna Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+    colors: colors-f
+    variant: variant-c
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
 ---
