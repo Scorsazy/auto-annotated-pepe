@@ -142,9 +142,19 @@ sections:
           title:
             fontWeight: 400
       - type: Testimonial
-        quote: >
-          “Anytime I have a question, I know I can get in touch with Doris. She
-          always helps me adjust my site to look as perfect as I’d hoped.”
+        quote: |+
+          **PHASE 2** 
+
+          *   **COMPLETE BONDING CURVE (PUMP OR CHEF OR BOTH!)**
+
+          *   **LIST ON UNISWAP OR RAYDIUM (OR BOTH!)**
+
+          *   **HUGE BURNING EVENT - BURN 10% OF SUPPLY**
+
+          *   **ESTABLISH MAJOR PARTNERSHIPS**
+
+
+
         name: ''
         title: ''
         image:
