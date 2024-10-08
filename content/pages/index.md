@@ -120,7 +120,7 @@ sections:
         title: CEO at Parks
         image:
           type: ImageBlock
-          url: /images/person-2.jpg
+          url: /images/designer 10.jpeg
           altText: John Doe
           caption: Caption of the image
           elementId: ''
