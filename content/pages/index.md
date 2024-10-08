@@ -117,7 +117,7 @@ sections:
           "Our website is the core of our sales strategy. Doris helped us
           establish an easy-to-maintain Stackbit site with outstanding visuals!"
         name: John Doe
-        title: CEO at Parks
+        title: ''
         image:
           type: ImageBlock
           url: /images/designer 10.jpeg
