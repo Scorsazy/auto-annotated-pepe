@@ -113,9 +113,37 @@ sections:
   - type: TestimonialsSection
     testimonials:
       - type: Testimonial
-        quote: >
-          "Our website is the core of our sales strategy. Doris helped us
-          establish an easy-to-maintain Stackbit site with outstanding visuals!"
+        quote: >+
+          **PHASE 1** 
+
+
+          <div style="text-align: left">*   **LAUNCH $PYRO ON**
+          [**CHEF.FUN**](https://chef.fun/tokens/0x0ace1f062e51283fa213c7c9724b47ffdb62635d)
+          ****
+
+
+          *   **LAUNCH $PYRO ON**
+          [**PUMP.FUN**](https://pump.fun/E2B5LbLS1UrnUh2MiUCvB9er5zWvYzfT7o7XqD7dpump)
+
+
+          *   **COMPLETE MULTIPLE MEME COMPETITIONS**
+
+
+          *   **ESTABLISH CONNECTIONS IN THE SPACE****PHASE 2***   **COMPLETE
+          BONDING CURVE (PUMP OR CHEF OR BOTH!)**
+
+
+          *   **LIST ON UNISWAP OR RAYDIUM (OR BOTH!)**
+
+
+          *   **HUGE BURNING EVENT - BURN 10% OF SUPPLY**
+
+
+          *   **ESTABLISH MAJOR PARTNERSHIPS**
+
+
+          </div>
+
         name: ''
         title: ''
         image:
