@@ -159,7 +159,7 @@ sections:
         title: ''
         image:
           type: ImageBlock
-          url: /images/designer 11.jpeg
+          url: /images/Designer (9).png
           altText: Johnna Doe
           caption: Caption of the image
           elementId: ''
