@@ -1,7 +1,7 @@
 ---
 type: PageLayout
 title: ''
-colors: colors-d
+colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/Designer (6).png
