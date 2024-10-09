@@ -120,8 +120,7 @@ sections:
           <div style="text-align: left">*   **LAUNCH $PYRO ON**
           [**CHEF.FUN**](https://chef.fun/tokens/0x0ace1f062e51283fa213c7c9724b47ffdb62635d)
 
-          *   **LAUNCH $PYRO ON**
-          [**PUMP.FUN**](https://pump.fun/E2B5LbLS1UrnUh2MiUCvB9er5zWvYzfT7o7XqD7dpump)
+          *   **LAUNCH $PYRO ON** [**PUMP.FUN**](https://pump.fun)
 
           *   **COMPLETE MULTIPLE MEME COMPETITIONS**
 
