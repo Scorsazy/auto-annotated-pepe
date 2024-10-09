@@ -25,9 +25,9 @@
             },
             {
                 "type": "Link",
-                "label": "PUMP.FUN",
+                "label": "SOLANA TELEGRAM",
                 "altText": "",
-                "url": "https://pump.fun",
+                "url": "",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -35,9 +35,9 @@
             },
             {
                 "type": "Link",
-                "label": "SOLANA TELEGRAM",
+                "label": "PUMP.FUN",
                 "altText": "",
-                "url": "",
+                "url": "https://pump.fun",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
